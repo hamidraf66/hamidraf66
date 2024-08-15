@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamidraf66
+- 👋 Hi, I’m hamidraf
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
